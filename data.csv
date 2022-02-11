@@ -1,6 +1,6 @@
 id,department,gender,city,RA,SA,DA
 1,PD,m,Almaty,15,33,15
-2;PD;f;Almaty;16;31;7
+2,PD,f,Almaty,16,31,7
 3;PD;f;Almaty;18;35;6
 4;PD;f;Almaty;19;34;12
 5;PD;f;Almaty;20;38;0
