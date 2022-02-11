@@ -1,5 +1,5 @@
-id;department ;gender ;age ;city;RA;SA;DA
-1;PD;m;;Almaty;15;33;15
+id,department,gender,age,city,RA,SA,DA
+1,PD,m,Almaty,15,33,15
 2;PD;f;;Almaty;16;31;7
 3;PD;f;32;Almaty;18;35;6
 4;PD;f;;Almaty;19;34;12
