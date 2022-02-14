@@ -1,5 +1,5 @@
 Book1
-id;department ;gender ;age ;Almaty;RA;SA;DA
+id,department ,gender ,Almaty,RA,SA,DA
 85,PD,m,Almaty,19,37,0
 86,PD,f,Almaty,16,35,9
 87,PD,f,Almaty,18,53,10
