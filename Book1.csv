@@ -5,12 +5,12 @@ id,department,gender,city,RA,SA,DA
 4,PD,f,Almaty,19,34,12
 5,PD,f,Almaty,20,38,0
 6,PD,f,Almaty,2,1,5
-7,PD,m,31,Almaty,25,33,15
+7,PD,m,Almaty,25,33,15
 8,PD,m,Almaty,15,40,13
 9,PD,m,Almaty,14,43,2
 10,PD,m,Almaty,14,0,0
 11,PD,m,Almaty,21,38,3
-12,PD,m,42,Almaty,19,31,19
+12,PD,m,Almaty,19,31,19
 13,PD,f,Almaty,20,25,19
 14,PD,f,Almaty,16,31,1
 15,PD,f,Almaty,15,31,4
